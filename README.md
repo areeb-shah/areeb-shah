@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @areeb-shah
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on Unique Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me areebshah7703@gmail.com
+- ⚡ Fun fact: Team leader
 
 
 Experienced Software Engineer with a strong background in both web development and mobile app development. 
